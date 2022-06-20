@@ -142,7 +142,7 @@ public class  Chairs extends AppCompatActivity implements View.OnClickListener {
             chair1.select();
 
             addName(anchornode,chair1,"Zurich Single Seater Sofa\n" +
-                    "Rs 8,500\n" +
+                    "Ksh 16,500\n" +
                     "\n" +
                     "Delivery Time: Immediate\n" +
                     "\n" +
@@ -177,7 +177,7 @@ public class  Chairs extends AppCompatActivity implements View.OnClickListener {
             chair3.select();
 
             addName(anchornode,chair3,"Single Seater Canvas Sofa\n"+
-                    "Rs 10,000/unit\n"+
+                    "Ksh 10,000/unit\n"+
                     "Leather Furniture");
 
         }
@@ -190,7 +190,7 @@ public class  Chairs extends AppCompatActivity implements View.OnClickListener {
             chair4.select();
 
             addName(anchornode,chair4,"Fixed styled Chair\n" +
-                    "Rs 12,000/Unit\n" +
+                    "Ksh 12,000/Unit\n" +
                     "Sai Ram Furniture");
 
         }
@@ -204,7 +204,7 @@ public class  Chairs extends AppCompatActivity implements View.OnClickListener {
             chair5.select();
 
             addName(anchornode,chair5,"Wooden Indoor Chair\n" +
-                    "Rs 3,000/Piece\n" +
+                    "Ksh 7,800/Piece\n" +
                     "Famous Furniture & Interior Contractor");
 
 

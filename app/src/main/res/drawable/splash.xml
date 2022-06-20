@@ -4,7 +4,7 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/main"/>
+            android:src="@drawable/arkeshop"/>
     </item>
 
 </layer-list>

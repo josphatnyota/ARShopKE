@@ -121,7 +121,7 @@ public class  Desks extends AppCompatActivity implements View.OnClickListener {
             desk1.select();
 
             addName(anchornode,desk1,"Natural Rustic Grren Aviator Bed Side Table\n" +
-                    "Rs 7,000/ pcs\n" +
+                    "Ksh 8,800/ pcs\n" +
                     "\n" +
                     "Finishing Type: Smooth\n" +
                     "\n" +
@@ -145,7 +145,7 @@ public class  Desks extends AppCompatActivity implements View.OnClickListener {
             desk2.select();
 
             addName(anchornode,desk2,"Mild Steel Rectangular Desk\n" +
-                    "Rs 30,000/ Piece\n" +
+                    "Ksh 5,000/ Piece\n" +
                     "\n" +
                     "Material: Mild Steel\n" +
                     "\n" +
@@ -166,7 +166,7 @@ public class  Desks extends AppCompatActivity implements View.OnClickListener {
             desk3.select();
 
             addName(anchornode,desk3,"Wooden Industrial Desk\n" +
-                    "Rs 12,000/ piece\n" +
+                    "Ksh 12,000/ piece\n" +
                     "\n" +
                     "Application: Home and Office\n" +
                     "\n" +

@@ -112,8 +112,8 @@ public class  Tables extends AppCompatActivity implements View.OnClickListener {
             table1.setRenderable(table1Renderable);
             table1.select();
 
-            addName(anchornode,table1,"Brwon Solid Wood Vintage Cart Coffee Table\n" +
-                    "Rs 20,000\n" +
+            addName(anchornode,table1,"Brown Solid Wood Vintage Cart Coffee Table\n" +
+                    "Ksh 20,000\n" +
                     "Color: Brown\n" +
                     "\n" +
                     "Surface Finish: Natural\n" +
@@ -134,7 +134,7 @@ public class  Tables extends AppCompatActivity implements View.OnClickListener {
             table2.select();
 
             addName(anchornode,table2,"Dom Glass Glass Table\n" +
-                    "Rs 276/ Square Feet\n" +
+                    "Ksh 7,700/ Square Feet\n" +
                     "\n" +
                     "Brand: Dom Glass\n" +
                     "\n" +

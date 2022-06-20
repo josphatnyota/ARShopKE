@@ -142,7 +142,7 @@ public class Lamps extends AppCompatActivity {
             lamp1.select();
 
             addName(anchornode,lamp1,"Modern/Contemporary Acrylic Antique Brass Table Lamp\n" +
-                    "Rs 500\n" +
+                    "Ksh 5500\n" +
                     "\n" +
                     "Base Material: Brass\n" +
                     "\n" +
@@ -164,7 +164,7 @@ public class Lamps extends AppCompatActivity {
             lamp2.select();
 
             addName(anchornode,lamp2,"Wellness Table Lamp\n" +
-                    "Rs 2,550/Piece\n" +
+                    "Ksh 2,550/Piece\n" +
                     "NS Jain & Co. Private Limited");
 
         }
@@ -176,7 +176,7 @@ public class Lamps extends AppCompatActivity {
             lamp3.setRenderable(lamp3Renderable);
             lamp3.select();
 
-            addName(anchornode,lamp3,"Tashhir Table Lamp Multi-Color"+"• Imported.\n" +
+            addName(anchornode,lamp3,"Tashir Table Lamp Multi-Color"+"• Imported.\n" +
                     "• Pair of Table Lamp with shades.\n" +
                     "• Marble.\n" +
                     "• Multi Color.");
@@ -191,7 +191,7 @@ public class Lamps extends AppCompatActivity {
             lamp4.select();
 
             addName(anchornode,lamp4,"Aluminium Portable Lamp\n" +
-                    "Rs 450/Piece\n" +
+                    "Ksh 4350/Piece\n" +
                     "Kdream Enterprises");
 
         }

@@ -103,7 +103,7 @@ public class MainActivityE extends AppCompatActivity implements View.OnClickList
             crystal.setRenderable(crystalRenderable);
             crystal.select();
 
-            addName(anchornode,crystal,"WELCOME TO ARflexe :\n"+
+            addName(anchornode,crystal,"WELCOME TO ARKEShop :\n"+
                     "where shopping is mixed with reality\n"
             +"Experience your items right at home without even buying them\n"+
                     "!An experience you'll never forget! ");
